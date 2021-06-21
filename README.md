@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I used to have blue hair and look forward to dyeing it purple in the future! :)
 
 
-[![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurenzel93)](https://github.com/Laurenzel93/github-readme-stats)
+[![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurenzel93&theme=gradient)](https://github.com/Laurenzel93/github-readme-stats)
