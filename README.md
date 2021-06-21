@@ -4,7 +4,7 @@
 **Laurenzel93/Laurenzel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-✨ Currently seeking employment opportunities!✨
+✨ I am currently seeking employment opportunities!✨
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on Inspecto-Gadget, an inspection scheduling app for the City of Orchard Lake.
