@@ -11,13 +11,7 @@
 - 🌱 I’m currently learning React.js!
 
 📫 How to reach me: Please email me at LWenzelWebDev@gmail.com!
-You can find me on [[Twitter]][1], or on [[LinkedIn]][2].
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/Laurenzel93/Laurenzel93/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
+You can find me on [Twitter][1], or on [LinkedIn][2]!
 
 [1]: https://twitter.com/Laurenzel
 [2]: https://www.linkedin.com/in/lewenzel/
