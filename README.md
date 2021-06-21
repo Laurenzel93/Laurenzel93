@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lauren! 👋
 
 <!--
 **Laurenzel93/Laurenzel93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React.js!
 
 📫 How to reach me: Please email me at LWenzelWebDev@gmail.com!
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
+You can find me on [[Twitter]][1], or on [[LinkedIn]][2].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
