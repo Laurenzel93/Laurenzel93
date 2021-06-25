@@ -17,4 +17,4 @@ You can find me on [Twitter][1], or on [LinkedIn][2]!
 [2]: https://www.linkedin.com/in/lewenzel/
 
 
-[![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurenzel93&include_all_commits=true&theme=material-palenight)](https://github.com/Laurenzel93/github-readme-stats)
+[![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laurenzel93&theme=material-palenight)](https://github.com/Laurenzel93/github-readme-stats)
