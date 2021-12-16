@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working as a Front End Software Developer for Ally Financial.
-- 🌱 I’m currently learning Angular.js!
+- 🌱 I’m currently learning Angular!
 
 📫 How to reach me: Please email me at LWenzelWebDev@gmail.com!
 You can find me on [Twitter][1], or on [LinkedIn][2]!
